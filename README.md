@@ -14,7 +14,7 @@ This mix of structured and unstructured data makes it suitable for demonstrating
 
 
 ## Table of Contents:
--[Data Ingestion](Data Ingestion)
+-[Data Ingestion](Data ingestion)
 -
 
 
