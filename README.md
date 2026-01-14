@@ -13,12 +13,12 @@ Customer satisfaction ratings
 This mix of structured and unstructured data makes it suitable for demonstrating real-world ingestion challenges.
 
 
-##Table of Contents:
+## Table of Contents:
 -[Data Ingestion](Data Ingestion)
 -
 
 
-##Data Ingestion
+## Data Ingestion
 The raw dataset is loaded from a CSV file using Pandas.
 Initial exploration is performed using head() and info() to understand the schema, data types, and potential quality issues.
 This step establishes a baseline understanding of the data before any transformations are applied.
