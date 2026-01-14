@@ -1,4 +1,4 @@
-### AI Based Knowledge Graph Builder
+# AI Based Knowledge Graph Builder
 
 This project demonstrates a complete data ingestion pipeline for a real-world Customer Support Ticket dataset.
 It covers data cleaning, validation, transformation, enrichment, encoding, and normalization, preparing the data for machine learning models and knowledge graph construction.
